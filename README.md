@@ -110,7 +110,7 @@ Propuesta visual en Figma:
 https://www.figma.com/design/xPV3sRPSBD7dKzyshKnIBT/Sin-t%C3%ADtulo?node-id=2-570&t=hovv12E4xbBdfMVW-0
 
 Landing publicada (prueba funcional en línea):
-https://ando-ands.github.io/test/
+https://ando-ands.github.io/prueba-promerica/
 
 Código fuente y prueba local:
 Todos los archivos están en esta carpeta (index.html, styles.css y app.js). No se requiere instalar nada; para probar la página también se puede abrir directamente index.html en cualquier navegador.
